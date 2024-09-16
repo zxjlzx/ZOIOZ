@@ -1,0 +1,1000 @@
+Y51|Vivo|{density=4.0,width=2560,height=3840}
+Galaxy M54|Samsung|{density=1,75,width=720,height=1280}
+Y5 Dual SIM (2017)|Vivo|{density=5.75,width=1440,height=4096}
+V1Max|Vivo|{density=2.75,width=2560,height=1280}
+V7 Plus|Vivo|{density=1.25,width=720,height=1280}
+Galaxy A54|Samsung|{density=3.75,width=1080,height=2560}
+F19|Oppo|{density=3.0,width=2560,height=2560}
+F5|Oppo|{density=1.0,width=1920,height=2560}
+Galaxy Tab S9 Ultra|Samsung|{density=4.25,width=720,height=4096}
+F1S|Oppo|{density=3.5,width=1440,height=1280}
+Galaxy Z Flip5|Samsung|{density=4.0,width=1440,height=1280}
+Galaxy F54|Samsung|{density=4.0,width=1080,height=1280}
+Y35|Vivo|{density=4.5,width=1920,height=2560}
+F7|Oppo|{density=5.25,width=1920,height=1920}
+V3|Vivo|{density=3.5,width=720,height=1920}
+F19|Oppo|{density=3.5,width=2560,height=3840}
+Y21L|Vivo|{density=4.25,width=720,height=2560}
+Vision 3 Dual SIM|Vivo|{density=4.0,width=1440,height=4096}
+F1|Oppo|{density=4.5,width=1440,height=2560}
+F9|Oppo|{density=1.5,width=1080,height=3840}
+YP-GI1|Vivo|{density=2.5,width=1920,height=1280}
+Y5 Dual SIM (2017)|Vivo|{density=3.5,width=2560,height=2560}
+Galaxy Tab S9+|Samsung|{density=5.0,width=2560,height=4096}
+Y51|Vivo|{density=1.5,width=1080,height=4096}
+F5|Oppo|{density=5.25,width=720,height=4096}
+Galaxy Z Flip6|Samsung|{density=5.75,width=1440,height=1920}
+Galaxy M35|Samsung|{density=6,width=1920,height=3840}
+V10 (Verizon)|Vivo|{density=4.0,width=720,height=4096}
+F5 Youth|Oppo|{density=1.5,width=720,height=3840}
+V20 (T-Mobile)|Vivo|{density=4.75,width=720,height=2560}
+Vibe K5 Note|Vivo|{density=5.0,width=1440,height=3840}
+Galaxy A06|Samsung|{density=3.5,width=2560,height=1920}
+Y21|Vivo|{density=4.0,width=720,height=2560}
+R1|Oppo|{density=4.25,width=720,height=4096}
+Galaxy A06|Samsung|{density=3.75,width=2560,height=3840}
+V20 (Verizon)|Vivo|{density=5.0,width=1080,height=3840}
+VR Bot 552|Vivo|{density=2.0,width=720,height=1920}
+Galaxy A05s|Samsung|{density=1.5,width=1440,height=4096}
+Galaxy Tab S9 Ultra|Samsung|{density=6,width=1920,height=4096}
+V10 (AT&T)|Vivo|{density=5.0,width=1440,height=2560}
+Galaxy A54|Samsung|{density=2.25,width=720,height=1920}
+F5|Oppo|{density=1.25,width=1920,height=4096}
+Galaxy M34 5G|Samsung|{density=4.75,width=1080,height=2560}
+V20 (Sprint)|Vivo|{density=6,width=1920,height=4096}
+YP-GI1|Vivo|{density=2.25,width=1080,height=4096}
+Vision 3 Dual SIM|Vivo|{density=3.25,width=2560,height=1280}
+Galaxy Watch6 Classic|Samsung|{density=4.0,width=720,height=1280}
+Vibe X|Vivo|{density=4.75,width=1440,height=2560}
+A37|Oppo|{density=4.5,width=2560,height=2560}
+Vibe K5 Plus Dual SIM|Vivo|{density=1.0,width=1080,height=3840}
+Y3 (2018)|Vivo|{density=6,width=1440,height=2560}
+A77|Oppo|{density=2.75,width=1080,height=2560}
+Y69|Vivo|{density=2.25,width=1920,height=2560}
+F21 Pro|Oppo|{density=4.25,width=1080,height=3840}
+A3s|Oppo|{density=3.5,width=720,height=2560}
+F5 Youth|Oppo|{density=2.75,width=1080,height=1920}
+V20 (Sprint)|Vivo|{density=2.5,width=2560,height=3840}
+Y21L|Vivo|{density=3.0,width=720,height=2560}
+V808|Vivo|{density=5.25,width=1080,height=4096}
+F17 Pro|Oppo|{density=4.75,width=1920,height=1920}
+Y83|Vivo|{density=4.0,width=2560,height=1920}
+V20 (T-Mobile)|Vivo|{density=6,width=1440,height=1280}
+Galaxy XCover7|Samsung|{density=4.75,width=720,height=2560}
+Y21L|Vivo|{density=1.25,width=720,height=3840}
+V20 (Verizon)|Vivo|{density=4.25,width=2560,height=2560}
+Y83|Vivo|{density=1,75,width=1920,height=2560}
+A5s|Oppo|{density=2.25,width=2560,height=2560}
+F5 Plus|Oppo|{density=6,width=1080,height=4096}
+A37|Oppo|{density=4.75,width=720,height=3840}
+A30|Oppo|{density=3.5,width=2560,height=1920}
+Galaxy M14 4G|Samsung|{density=2.25,width=720,height=3840}
+V29 Lite|Vivo|{density=5.25,width=1440,height=4096}
+F21 Pro|Oppo|{density=1.25,width=1080,height=1920}
+Y35|Vivo|{density=1.25,width=1080,height=3840}
+Galaxy A55|Samsung|{density=5.25,width=1440,height=1280}
+R11|Oppo|{density=3.5,width=2560,height=2560}
+Galaxy A05s|Samsung|{density=5.25,width=1920,height=3840}
+Galaxy S24 Ultra|Samsung|{density=3.75,width=1920,height=1280}
+Y21L|Vivo|{density=2.5,width=720,height=4096}
+Y6 (2018)|Vivo|{density=3.75,width=1080,height=1920}
+Galaxy M14|Samsung|{density=5.75,width=2560,height=1920}
+Y51|Vivo|{density=2.5,width=1920,height=1280}
+Galaxy Tab S9 FE|Samsung|{density=4.25,width=720,height=1920}
+Galaxy Tab S9 FE+|Samsung|{density=5.0,width=1080,height=1280}
+F5 Youth|Oppo|{density=2.5,width=1080,height=2560}
+Yota Phone 2|Vivo|{density=4.0,width=1920,height=1280}
+F15|Oppo|{density=3.5,width=2560,height=3840}
+F17 Pro|Oppo|{density=3.25,width=1080,height=4096}
+Y6 (2018)|Vivo|{density=2.75,width=2560,height=1280}
+Galaxy Tab S9|Samsung|{density=5.75,width=2560,height=4096}
+F7|Oppo|{density=2.0,width=720,height=3840}
+F21 Pro|Oppo|{density=5.0,width=1440,height=1280}
+Galaxy A05s|Samsung|{density=1.0,width=1920,height=1920}
+V7|Vivo|{density=2.0,width=2560,height=3840}
+Y17s|Vivo|{density=4.0,width=1080,height=1920}
+A53|Oppo|{density=3.5,width=1920,height=1920}
+F9|Oppo|{density=4.75,width=720,height=1920}
+F9|Oppo|{density=2.0,width=1080,height=1280}
+VX5500|Vivo|{density=3.0,width=1920,height=3840}
+Galaxy A54|Samsung|{density=6,width=1440,height=1280}
+Y21L|Vivo|{density=3.5,width=1440,height=3840}
+Y71|Vivo|{density=3.5,width=720,height=1920}
+V808|Vivo|{density=4.75,width=1920,height=2560}
+A37|Oppo|{density=4.5,width=1920,height=3840}
+V10 (Verizon)|Vivo|{density=4.25,width=2560,height=4096}
+Y83|Vivo|{density=4.75,width=1080,height=4096}
+Galaxy M14 4G|Samsung|{density=2.5,width=1440,height=3840}
+Vibe K5|Vivo|{density=5.0,width=2560,height=1280}
+Galaxy Tab A9|Samsung|{density=4.5,width=720,height=1280}
+R11|Oppo|{density=4.0,width=1440,height=2560}
+F5 Youth|Oppo|{density=3.25,width=2560,height=1280}
+F19 Pro|Oppo|{density=5.0,width=1920,height=2560}
+Galaxy F34|Samsung|{density=3.25,width=2560,height=1280}
+A5s|Oppo|{density=5.25,width=1920,height=1280}
+F17|Oppo|{density=1.5,width=720,height=1280}
+Galaxy F54|Samsung|{density=2.0,width=1080,height=1280}
+F1 Plus|Oppo|{density=1,75,width=1440,height=4096}
+Galaxy Tab Active5|Samsung|{density=1.5,width=1080,height=2560}
+Y81|Vivo|{density=5.0,width=1920,height=2560}
+Galaxy Z Fold5|Samsung|{density=4.0,width=720,height=4096}
+F19s|Oppo|{density=2.75,width=1080,height=2560}
+F9|Oppo|{density=5.75,width=1920,height=3840}
+Galaxy A55|Samsung|{density=1,75,width=2560,height=1280}
+Galaxy S23 FE|Samsung|{density=1.25,width=720,height=2560}
+Galaxy A24 4G|Samsung|{density=3.75,width=1920,height=1920}
+Y71|Vivo|{density=3.0,width=1440,height=1280}
+Volt LS740|Vivo|{density=4.5,width=1920,height=1920}
+A3s|Oppo|{density=4.5,width=1440,height=3840}
+F3|Oppo|{density=2.0,width=1440,height=2560}
+Galaxy S24|Samsung|{density=3.75,width=720,height=4096}
+F25 Pro|Oppo|{density=2.0,width=2560,height=1920}
+F15|Oppo|{density=3.25,width=720,height=1280}
+Y66|Vivo|{density=5.0,width=2560,height=1280}
+A37|Oppo|{density=1.5,width=1440,height=4096}
+A5s|Oppo|{density=4.75,width=720,height=1280}
+V3|Vivo|{density=2.0,width=1080,height=1920}
+Volt LS740|Vivo|{density=2.75,width=1920,height=4096}
+R3|Oppo|{density=2.0,width=1440,height=3840}
+F5|Oppo|{density=1.0,width=1920,height=2560}
+Galaxy Tab S6 Lite (2024)|Samsung|{density=6,width=1080,height=2560}
+YP-GI1|Vivo|{density=5.25,width=720,height=3840}
+Vibe K5 Note|Vivo|{density=1.5,width=2560,height=2560}
+Galaxy Tab S6 Lite (2024)|Samsung|{density=5.75,width=720,height=1920}
+Y5 Dual SIM (2017)|Vivo|{density=2.75,width=1920,height=4096}
+Galaxy A05s|Samsung|{density=3.25,width=2560,height=4096}
+Galaxy Tab S9 FE|Samsung|{density=3.0,width=1080,height=3840}
+Galaxy A06|Samsung|{density=3.5,width=1080,height=2560}
+Galaxy M54|Samsung|{density=1.0,width=1920,height=1280}
+F3 Lite|Oppo|{density=4.25,width=1440,height=2560}
+Galaxy A34|Samsung|{density=3.0,width=1080,height=1920}
+V10 (Verizon)|Vivo|{density=4.0,width=720,height=4096}
+Y336-U02|Vivo|{density=2.5,width=2560,height=3840}
+Galaxy M35|Samsung|{density=3.75,width=2560,height=1920}
+F7|Oppo|{density=5.0,width=1440,height=2560}
+Galaxy Tab Active5|Samsung|{density=3.5,width=1440,height=4096}
+Galaxy M15|Samsung|{density=5.25,width=1440,height=2560}
+A53|Oppo|{density=3.25,width=1920,height=4096}
+Galaxy Tab S9 Ultra|Samsung|{density=1,75,width=1080,height=1920}
+Y3 (2018)|Vivo|{density=2.5,width=1080,height=2560}
+Galaxy M14|Samsung|{density=1,75,width=2560,height=1920}
+Vibe K5|Vivo|{density=4.5,width=2560,height=2560}
+Vibe K5|Vivo|{density=3.5,width=1080,height=3840}
+Galaxy Tab S6 Lite (2024)|Samsung|{density=5.75,width=2560,height=4096}
+F9|Oppo|{density=1,75,width=1440,height=2560}
+F21 Pro 5G|Oppo|{density=6,width=720,height=1280}
+V5|Vivo|{density=3.75,width=720,height=2560}
+F5 Youth|Oppo|{density=1.5,width=1440,height=2560}
+A3s|Oppo|{density=1.0,width=1080,height=2560}
+Galaxy Tab A9+|Samsung|{density=6,width=1440,height=1920}
+VX5500|Vivo|{density=1.25,width=720,height=1280}
+F1 Plus|Oppo|{density=4.25,width=2560,height=1280}
+R1|Oppo|{density=2.75,width=1920,height=3840}
+Galaxy A24 4G|Samsung|{density=1,75,width=1920,height=1920}
+Galaxy M15|Samsung|{density=5.75,width=1440,height=4096}
+Galaxy C55|Samsung|{density=3.75,width=1440,height=3840}
+Y55L|Vivo|{density=4.5,width=1920,height=3840}
+F1|Oppo|{density=5.25,width=1440,height=2560}
+V10 (T-Mobile)|Vivo|{density=1.0,width=1080,height=3840}
+Galaxy Watch6 Classic|Samsung|{density=1,75,width=1080,height=1280}
+Y3 (2018)|Vivo|{density=2.75,width=1440,height=2560}
+V808|Vivo|{density=4.0,width=1080,height=1920}
+Galaxy M14 4G|Samsung|{density=1.5,width=2560,height=4096}
+F27 Pro+|Oppo|{density=4.25,width=720,height=1920}
+F21s Pro|Oppo|{density=2.25,width=1440,height=1280}
+R11|Oppo|{density=5.25,width=720,height=2560}
+Galaxy C55|Samsung|{density=2.5,width=720,height=1920}
+F9|Oppo|{density=4.5,width=1920,height=1920}
+Galaxy S24+|Samsung|{density=4.0,width=1440,height=1920}
+V20 (Sprint)|Vivo|{density=2.5,width=1440,height=3840}
+Galaxy Z Flip5|Samsung|{density=5.75,width=1440,height=2560}
+V20 (AT&T)|Vivo|{density=4.5,width=2560,height=1280}
+Galaxy M34 5G|Samsung|{density=2.0,width=720,height=1280}
+Galaxy S24|Samsung|{density=4.25,width=1920,height=1280}
+Galaxy Tab S9 FE|Samsung|{density=3.25,width=2560,height=4096}
+Galaxy F55|Samsung|{density=5.75,width=1920,height=1280}
+F3 Lite|Oppo|{density=3.75,width=1920,height=1280}
+A77|Oppo|{density=1,75,width=1920,height=3840}
+Galaxy A05|Samsung|{density=1.0,width=1440,height=1280}
+Galaxy Watch6 Classic|Samsung|{density=4.5,width=720,height=4096}
+V808|Vivo|{density=4.5,width=1080,height=4096}
+F23|Oppo|{density=3.75,width=1080,height=2560}
+Galaxy A25|Samsung|{density=2.0,width=2560,height=2560}
+F21 Pro 5G|Oppo|{density=4.5,width=1920,height=4096}
+Y83|Vivo|{density=3.75,width=2560,height=1280}
+Galaxy Tab A9+|Samsung|{density=4.5,width=1080,height=1280}
+F23|Oppo|{density=3.5,width=720,height=2560}
+Galaxy A15|Samsung|{density=5.0,width=2560,height=1920}
+A5s|Oppo|{density=4.5,width=1920,height=1280}
+F1S|Oppo|{density=2.5,width=1080,height=1920}
+F19 Pro|Oppo|{density=1,75,width=720,height=1280}
+Galaxy M35|Samsung|{density=1,75,width=2560,height=1280}
+Y69|Vivo|{density=5.25,width=720,height=4096}
+F11|Oppo|{density=3.75,width=1080,height=4096}
+A30|Oppo|{density=4.5,width=2560,height=2560}
+Galaxy Watch6 Classic|Samsung|{density=3.25,width=720,height=2560}
+V9|Vivo|{density=1.5,width=1440,height=2560}
+Y55L|Vivo|{density=4.0,width=1440,height=2560}
+Y81|Vivo|{density=4.25,width=1080,height=3840}
+F9|Oppo|{density=4.25,width=1440,height=1920}
+Galaxy A24 4G|Samsung|{density=3.75,width=1080,height=4096}
+Y83|Vivo|{density=2.5,width=2560,height=1280}
+Galaxy M05|Samsung|{density=4.5,width=720,height=1920}
+Galaxy M35|Samsung|{density=2.25,width=1920,height=2560}
+F11 Pro|Oppo|{density=5.0,width=1080,height=1920}
+Galaxy A05|Samsung|{density=4.0,width=2560,height=2560}
+V20 (Sprint)|Vivo|{density=3.75,width=2560,height=3840}
+Vision|Vivo|{density=3.5,width=1080,height=1280}
+F7 Youth|Oppo|{density=3.5,width=1440,height=2560}
+F5 Plus|Oppo|{density=3.5,width=2560,height=1920}
+Y83|Vivo|{density=3.75,width=1440,height=1280}
+Y6 Dual SIM (2018)|Vivo|{density=5.25,width=1080,height=1920}
+R9|Oppo|{density=3.25,width=1440,height=2560}
+Galaxy F15|Samsung|{density=3.25,width=1080,height=2560}
+Galaxy A05|Samsung|{density=4.0,width=1080,height=1280}
+Y21L|Vivo|{density=1,75,width=1080,height=1280}
+Galaxy A06|Samsung|{density=5.75,width=720,height=4096}
+Vision|Vivo|{density=4.25,width=1440,height=1280}
+Galaxy Tab S9|Samsung|{density=5.25,width=1440,height=1280}
+VR Bot 552|Vivo|{density=4.25,width=1080,height=2560}
+Galaxy M34 5G|Samsung|{density=1.0,width=720,height=3840}
+A59|Oppo|{density=1,75,width=1080,height=2560}
+Galaxy M35|Samsung|{density=1.0,width=1920,height=4096}
+Y6 Prime (2018)|Vivo|{density=2.5,width=720,height=1280}
+Galaxy A55|Samsung|{density=3.25,width=1920,height=3840}
+Galaxy Tab Active5|Samsung|{density=2.5,width=1080,height=1280}
+Galaxy F55|Samsung|{density=4.0,width=1440,height=1920}
+Y51L|Vivo|{density=2.75,width=720,height=1920}
+F1 Plus|Oppo|{density=4.5,width=2560,height=1280}
+A59|Oppo|{density=3.75,width=1440,height=2560}
+Galaxy F54|Samsung|{density=1.5,width=2560,height=3840}
+Y51|Vivo|{density=5.75,width=1920,height=1920}
+Y6 Prime (2018)|Vivo|{density=1.25,width=1080,height=3840}
+Galaxy S24+|Samsung|{density=2.5,width=2560,height=1280}
+F21 Pro|Oppo|{density=1,75,width=1080,height=4096}
+Y6 Prime (2018)|Vivo|{density=3.0,width=2560,height=1920}
+F9 Pro|Oppo|{density=4.25,width=1440,height=1920}
+Galaxy A34|Samsung|{density=6,width=1440,height=1920}
+F17|Oppo|{density=1.25,width=2560,height=1280}
+Galaxy Z Fold6|Samsung|{density=1,75,width=2560,height=1920}
+Vega Iron 2 WiFi|Vivo|{density=5.75,width=1920,height=2560}
+F21s Pro|Oppo|{density=5.75,width=1440,height=1280}
+Yota Phone 2|Vivo|{density=2.5,width=720,height=1920}
+V7 Plus|Vivo|{density=1.25,width=2560,height=1920}
+Galaxy S23 FE|Samsung|{density=5.75,width=1920,height=3840}
+V10 (AT&T)|Vivo|{density=3.0,width=1080,height=3840}
+A53|Oppo|{density=1.0,width=2560,height=2560}
+Galaxy A05|Samsung|{density=3.5,width=1440,height=1920}
+F17 Pro|Oppo|{density=3.5,width=1080,height=2560}
+Galaxy Tab A9|Samsung|{density=1.5,width=1440,height=2560}
+A39|Oppo|{density=2.5,width=720,height=1280}
+Y5 Prime 2018 Dual SIM|Vivo|{density=2.0,width=1080,height=4096}
+Galaxy Tab S9 FE+|Samsung|{density=5.0,width=2560,height=4096}
+Galaxy XCover7|Samsung|{density=3.0,width=720,height=2560}
+A9|Oppo|{density=1.0,width=2560,height=1280}
+F25 Pro|Oppo|{density=2.5,width=2560,height=4096}
+Galaxy S24+|Samsung|{density=5.0,width=1080,height=1920}
+Y6 Dual SIM (2018)|Vivo|{density=4.25,width=1920,height=3840}
+R11|Oppo|{density=2.0,width=1920,height=1920}
+Galaxy F14|Samsung|{density=3.75,width=2560,height=1920}
+Galaxy A05s|Samsung|{density=3.5,width=2560,height=3840}
+A30|Oppo|{density=2.25,width=1440,height=3840}
+A30|Oppo|{density=3.0,width=1440,height=1280}
+Galaxy A35|Samsung|{density=2.25,width=1920,height=3840}
+Volt LS740|Vivo|{density=4.75,width=720,height=3840}
+Galaxy C55|Samsung|{density=1.5,width=720,height=1920}
+V808|Vivo|{density=4.0,width=1920,height=4096}
+Galaxy M34 5G|Samsung|{density=1.25,width=1440,height=4096}
+F9|Oppo|{density=1,75,width=1440,height=2560}
+Galaxy S23 FE|Samsung|{density=2.25,width=1920,height=3840}
+Galaxy Z Flip6|Samsung|{density=4.0,width=1920,height=2560}
+F11|Oppo|{density=3.5,width=720,height=4096}
+V20 (AT&T)|Vivo|{density=1.5,width=720,height=1280}
+V1Max|Vivo|{density=4.0,width=1440,height=2560}
+F7 Youth|Oppo|{density=4.25,width=1440,height=1920}
+F7 Youth|Oppo|{density=4.75,width=720,height=3840}
+Y5 Prime 2018 Dual SIM|Vivo|{density=4.0,width=2560,height=1280}
+Galaxy A55|Samsung|{density=4.75,width=1920,height=1280}
+Y65|Vivo|{density=1,75,width=1440,height=3840}
+Y83|Vivo|{density=6,width=1440,height=3840}
+Y336-U02|Vivo|{density=3.5,width=720,height=4096}
+V7|Vivo|{density=4.0,width=1920,height=3840}
+V20 (Verizon)|Vivo|{density=2.75,width=1920,height=1920}
+Galaxy S24|Samsung|{density=3.75,width=1080,height=2560}
+A37|Oppo|{density=3.75,width=720,height=3840}
+Galaxy Tab S9 FE+|Samsung|{density=3.5,width=1440,height=4096}
+Y83|Vivo|{density=5.0,width=1080,height=1920}
+R3|Oppo|{density=3.25,width=1080,height=1280}
+Galaxy M54|Samsung|{density=6,width=1920,height=2560}
+Galaxy A35|Samsung|{density=1,75,width=1920,height=1920}
+Galaxy S24|Samsung|{density=3.0,width=720,height=3840}
+Galaxy A35|Samsung|{density=1.0,width=2560,height=2560}
+V20 (T-Mobile)|Vivo|{density=6,width=1920,height=2560}
+V29 Lite|Vivo|{density=5.25,width=2560,height=4096}
+Vibe K5|Vivo|{density=2.0,width=720,height=1280}
+F21s Pro 5G|Oppo|{density=2.25,width=1440,height=1920}
+Galaxy M05|Samsung|{density=5.25,width=1920,height=2560}
+F9|Oppo|{density=3.5,width=1440,height=2560}
+V20 (AT&T)|Vivo|{density=4.0,width=720,height=4096}
+Galaxy A35|Samsung|{density=5.0,width=1440,height=1280}
+Galaxy A05|Samsung|{density=3.25,width=1440,height=1920}
+R11|Oppo|{density=3.5,width=1920,height=1280}
+Galaxy M05|Samsung|{density=5.75,width=2560,height=4096}
+A5s|Oppo|{density=4.75,width=720,height=3840}
+F5|Oppo|{density=3.25,width=1440,height=2560}
+A53|Oppo|{density=2.5,width=720,height=1920}
+V10 (AT&T)|Vivo|{density=3.0,width=720,height=3840}
+F23|Oppo|{density=4.5,width=1080,height=1920}
+Galaxy Tab S9 FE|Samsung|{density=5.25,width=2560,height=1280}
+F27 Pro+|Oppo|{density=4.75,width=2560,height=1280}
+A53|Oppo|{density=2.25,width=1440,height=1920}
+Galaxy Tab S9 FE+|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy Z Flip6|Samsung|{density=4.75,width=1440,height=3840}
+F9 Pro|Oppo|{density=6,width=1920,height=1280}
+Galaxy A24 4G|Samsung|{density=2.25,width=1920,height=1920}
+Galaxy C55|Samsung|{density=3.5,width=1440,height=4096}
+F11|Oppo|{density=3.75,width=2560,height=1920}
+V3|Vivo|{density=4.0,width=1920,height=3840}
+VX5500|Vivo|{density=2.5,width=1920,height=4096}
+Galaxy XCover7|Samsung|{density=4.5,width=1920,height=1280}
+Galaxy S24|Samsung|{density=6,width=720,height=2560}
+Galaxy Tab Active5|Samsung|{density=4.25,width=1440,height=2560}
+Galaxy F14|Samsung|{density=2.75,width=2560,height=1280}
+Galaxy Watch6 Classic|Samsung|{density=3.0,width=2560,height=2560}
+Y81|Vivo|{density=4.25,width=1920,height=3840}
+A7|Oppo|{density=6,width=1440,height=1920}
+R9|Oppo|{density=6,width=1920,height=1280}
+Y65|Vivo|{density=1,75,width=1920,height=3840}
+A53|Oppo|{density=1.0,width=1440,height=4096}
+Y21L|Vivo|{density=4.0,width=720,height=1920}
+Galaxy M14 4G|Samsung|{density=5.25,width=1080,height=3840}
+Galaxy F34|Samsung|{density=4.0,width=2560,height=4096}
+Galaxy A15 5G|Samsung|{density=2.0,width=1920,height=2560}
+F9|Oppo|{density=3.75,width=1920,height=1920}
+V20 (T-Mobile)|Vivo|{density=5.0,width=720,height=1280}
+Y6 Prime (2018)|Vivo|{density=3.75,width=1440,height=2560}
+Vibe K5|Vivo|{density=5.75,width=2560,height=4096}
+Y65|Vivo|{density=1,75,width=1920,height=1920}
+F3 Lite|Oppo|{density=5.75,width=720,height=1920}
+Galaxy A06|Samsung|{density=4.5,width=720,height=4096}
+F9|Oppo|{density=3.0,width=1920,height=4096}
+F11 Pro|Oppo|{density=2.75,width=2560,height=3840}
+Reno 3|Oppo|{density=4.5,width=1440,height=3840}
+Vibe K5|Vivo|{density=3.0,width=720,height=1280}
+V29e|Vivo|{density=3.5,width=1920,height=3840}
+Galaxy S24+|Samsung|{density=4.5,width=1920,height=3840}
+A37|Oppo|{density=1.5,width=1080,height=1920}
+A53|Oppo|{density=1.25,width=720,height=2560}
+Y17s|Vivo|{density=2.5,width=720,height=2560}
+F9|Oppo|{density=4.25,width=720,height=2560}
+Galaxy F34|Samsung|{density=4.75,width=2560,height=4096}
+Galaxy A24 4G|Samsung|{density=4.0,width=1080,height=1280}
+Vdeo 2|Vivo|{density=5.75,width=1920,height=3840}
+V3|Vivo|{density=4.25,width=720,height=4096}
+Galaxy S23 FE|Samsung|{density=5.75,width=720,height=1280}
+Y35|Vivo|{density=1.5,width=2560,height=3840}
+Vibe X|Vivo|{density=3.75,width=1920,height=4096}
+Galaxy F34|Samsung|{density=2.25,width=720,height=2560}
+F21s Pro|Oppo|{density=3.0,width=720,height=3840}
+A7|Oppo|{density=1,75,width=1920,height=1280}
+Galaxy M54|Samsung|{density=5.75,width=1920,height=3840}
+A53|Oppo|{density=3.0,width=1080,height=2560}
+Galaxy A35|Samsung|{density=4.25,width=2560,height=1280}
+R1|Oppo|{density=5.0,width=1920,height=1280}
+F5 Plus|Oppo|{density=2.25,width=1440,height=4096}
+V5s|Vivo|{density=5.75,width=720,height=2560}
+F21 Pro|Oppo|{density=2.75,width=1080,height=4096}
+R11|Oppo|{density=1.5,width=2560,height=3840}
+R11|Oppo|{density=3.75,width=720,height=1280}
+Galaxy Tab A9+|Samsung|{density=2.25,width=1440,height=4096}
+Galaxy Z Flip6|Samsung|{density=3.25,width=1080,height=1920}
+Galaxy A05s|Samsung|{density=4.25,width=1080,height=3840}
+Galaxy Tab S9 FE|Samsung|{density=3.25,width=720,height=4096}
+R9|Oppo|{density=6,width=1080,height=4096}
+Valencia|Vivo|{density=5.0,width=720,height=4096}
+Galaxy S24|Samsung|{density=1,75,width=2560,height=1920}
+VR Bot 552|Vivo|{density=5.75,width=2560,height=2560}
+V20|Vivo|{density=2.75,width=1080,height=2560}
+F5|Oppo|{density=3.5,width=1920,height=4096}
+Galaxy F14 4G|Samsung|{density=6,width=1440,height=2560}
+Galaxy A55|Samsung|{density=2.0,width=720,height=1920}
+Y5 II|Vivo|{density=3.25,width=1080,height=3840}
+Y21|Vivo|{density=5.0,width=1080,height=1920}
+F1S|Oppo|{density=6,width=720,height=3840}
+F1 Plus|Oppo|{density=4.25,width=1080,height=2560}
+V20 (AT&T)|Vivo|{density=4.25,width=1440,height=3840}
+Galaxy A54|Samsung|{density=4.25,width=720,height=4096}
+R17|Oppo|{density=4.5,width=720,height=3840}
+A39|Oppo|{density=4.25,width=1920,height=1920}
+Y6 Prime (2018)|Vivo|{density=4.25,width=720,height=3840}
+F19 Pro+ 5G|Oppo|{density=5.25,width=1920,height=1920}
+Galaxy A05|Samsung|{density=5.0,width=1920,height=3840}
+V3|Vivo|{density=2.0,width=1080,height=3840}
+F17 Pro|Oppo|{density=6,width=1920,height=2560}
+Galaxy F55|Samsung|{density=3.25,width=1920,height=2560}
+A39|Oppo|{density=1.5,width=1920,height=2560}
+F17 Pro|Oppo|{density=1,75,width=1920,height=2560}
+Y35|Vivo|{density=1.0,width=1440,height=1280}
+Y81|Vivo|{density=2.0,width=1920,height=2560}
+F21s Pro 5G|Oppo|{density=1.0,width=1440,height=1280}
+Galaxy F54|Samsung|{density=1.5,width=1440,height=1920}
+Valencia|Vivo|{density=3.0,width=720,height=4096}
+Galaxy Z Fold5|Samsung|{density=2.75,width=1920,height=4096}
+F5 Youth|Oppo|{density=5.25,width=2560,height=2560}
+Galaxy A06|Samsung|{density=3.25,width=720,height=3840}
+R11|Oppo|{density=2.25,width=1080,height=1280}
+Galaxy M14|Samsung|{density=1.25,width=1440,height=1920}
+R1|Oppo|{density=3.25,width=1920,height=1280}
+A9|Oppo|{density=1.25,width=2560,height=1280}
+Galaxy A55|Samsung|{density=1.5,width=1440,height=4096}
+F5 Youth|Oppo|{density=1.0,width=2560,height=1920}
+F11|Oppo|{density=3.25,width=1440,height=4096}
+Galaxy M55|Samsung|{density=6,width=1440,height=1280}
+A53|Oppo|{density=3.0,width=1920,height=2560}
+F3 Lite|Oppo|{density=2.5,width=1080,height=1920}
+Y5 Dual SIM (2017)|Vivo|{density=4.0,width=2560,height=1280}
+F5 Youth|Oppo|{density=3.0,width=720,height=3840}
+Galaxy A15 5G|Samsung|{density=4.25,width=2560,height=4096}
+A53|Oppo|{density=2.5,width=1080,height=3840}
+V7 Plus|Vivo|{density=1.0,width=1920,height=1280}
+Y6 Prime (2018)|Vivo|{density=1.5,width=1440,height=3840}
+F19s|Oppo|{density=2.0,width=1920,height=1280}
+Y69|Vivo|{density=4.75,width=2560,height=1280}
+VX5500|Vivo|{density=2.75,width=2560,height=3840}
+Galaxy Tab S9 FE|Samsung|{density=3.0,width=2560,height=3840}
+Galaxy M15|Samsung|{density=1.5,width=720,height=4096}
+Y3 (2018)|Vivo|{density=4.5,width=720,height=1280}
+A59|Oppo|{density=1.0,width=1080,height=3840}
+Galaxy Z Flip6|Samsung|{density=1.25,width=1920,height=1280}
+Galaxy M14|Samsung|{density=1.5,width=720,height=1920}
+F21 Pro|Oppo|{density=2.5,width=1920,height=1920}
+Galaxy A06|Samsung|{density=1.0,width=1440,height=2560}
+YP-GI1|Vivo|{density=2.5,width=1920,height=4096}
+Galaxy A55|Samsung|{density=3.75,width=1080,height=1280}
+Y3 (2018)|Vivo|{density=3.0,width=2560,height=2560}
+F27 Pro+|Oppo|{density=1.25,width=1080,height=2560}
+V9|Vivo|{density=3.25,width=1440,height=2560}
+A53|Oppo|{density=3.5,width=1440,height=1920}
+A5s|Oppo|{density=1.25,width=2560,height=1280}
+Galaxy S24|Samsung|{density=3.0,width=1080,height=1280}
+V29 Lite|Vivo|{density=6,width=1080,height=4096}
+F17 Pro|Oppo|{density=4.5,width=1080,height=2560}
+A59|Oppo|{density=6,width=720,height=4096}
+Galaxy Z Flip6|Samsung|{density=4.75,width=1080,height=1920}
+Galaxy M14|Samsung|{density=5.0,width=1920,height=3840}
+Vibe Z|Vivo|{density=1,75,width=1080,height=1920}
+Galaxy A55|Samsung|{density=4.5,width=1440,height=2560}
+F3 Lite|Oppo|{density=4.25,width=1080,height=4096}
+Galaxy M55|Samsung|{density=1.5,width=2560,height=2560}
+R1|Oppo|{density=1,75,width=2560,height=3840}
+Galaxy Z Fold6|Samsung|{density=3.25,width=2560,height=4096}
+R3|Oppo|{density=1.0,width=1920,height=2560}
+Galaxy Tab A9+|Samsung|{density=2.25,width=1440,height=2560}
+Galaxy A24 4G|Samsung|{density=4.0,width=1440,height=1280}
+Y5 II|Vivo|{density=2.0,width=1920,height=1920}
+Galaxy A55|Samsung|{density=4.5,width=720,height=2560}
+Y21|Vivo|{density=3.0,width=2560,height=4096}
+Galaxy M15|Samsung|{density=4.25,width=720,height=1280}
+F7 Youth|Oppo|{density=1.25,width=1080,height=1920}
+A7|Oppo|{density=2.75,width=2560,height=3840}
+Galaxy Tab Active5|Samsung|{density=1.0,width=1440,height=2560}
+Galaxy A24 4G|Samsung|{density=3.0,width=720,height=1280}
+Y28|Vivo|{density=6,width=2560,height=4096}
+V29 Lite|Vivo|{density=4.0,width=720,height=3840}
+Galaxy Tab S9+|Samsung|{density=4.5,width=720,height=3840}
+Y6 Prime (2018)|Vivo|{density=2.75,width=1920,height=1280}
+Galaxy S24+|Samsung|{density=5.75,width=720,height=1280}
+Galaxy S23 FE|Samsung|{density=3.75,width=720,height=1920}
+Galaxy Tab A9+|Samsung|{density=4.75,width=720,height=1920}
+A37|Oppo|{density=6,width=1440,height=2560}
+V9|Vivo|{density=1,75,width=1440,height=4096}
+Galaxy M35|Samsung|{density=1.0,width=1440,height=2560}
+Vega Iron 2 WiFi|Vivo|{density=4.0,width=2560,height=1280}
+Vision 3 Dual SIM|Vivo|{density=2.25,width=1080,height=1280}
+VX5500|Vivo|{density=5.0,width=1080,height=3840}
+Galaxy S24 Ultra|Samsung|{density=2.0,width=1920,height=4096}
+Galaxy S24 Ultra|Samsung|{density=5.25,width=1920,height=1920}
+A37|Oppo|{density=2.5,width=1920,height=3840}
+F11 Pro|Oppo|{density=1.0,width=1440,height=2560}
+Galaxy M55|Samsung|{density=3.75,width=1440,height=1920}
+Galaxy A54|Samsung|{density=1.0,width=1920,height=4096}
+Galaxy M14 4G|Samsung|{density=2.0,width=2560,height=3840}
+V9|Vivo|{density=5.25,width=720,height=2560}
+F25 Pro|Oppo|{density=1,75,width=1080,height=4096}
+F21 Pro|Oppo|{density=5.25,width=1920,height=1280}
+F21s Pro|Oppo|{density=3.5,width=1080,height=3840}
+Galaxy A55|Samsung|{density=4.75,width=720,height=2560}
+F7 Youth|Oppo|{density=1,75,width=1440,height=3840}
+Y51|Vivo|{density=5.25,width=1440,height=2560}
+Y5 II|Vivo|{density=1.25,width=1080,height=3840}
+Galaxy F14|Samsung|{density=5.0,width=1080,height=1280}
+Galaxy S24 Ultra|Samsung|{density=1,75,width=2560,height=2560}
+F15|Oppo|{density=4.75,width=720,height=3840}
+Volt LS740|Vivo|{density=4.25,width=720,height=2560}
+Galaxy Tab S9 FE|Samsung|{density=2.75,width=1440,height=2560}
+A5s|Oppo|{density=2.5,width=1440,height=1920}
+F21 Pro|Oppo|{density=1.5,width=1440,height=4096}
+F9 Pro|Oppo|{density=2.75,width=2560,height=4096}
+Galaxy Tab S9 FE+|Samsung|{density=3.5,width=1080,height=4096}
+V29 Lite|Vivo|{density=4.0,width=1920,height=4096}
+Y5 II|Vivo|{density=1,75,width=1440,height=4096}
+F19 Pro|Oppo|{density=5.0,width=2560,height=1920}
+V20 (T-Mobile)|Vivo|{density=3.5,width=2560,height=2560}
+Y55L|Vivo|{density=5.25,width=1440,height=2560}
+Y66|Vivo|{density=1.25,width=2560,height=1920}
+Vibe X|Vivo|{density=3.5,width=1440,height=4096}
+Galaxy F14|Samsung|{density=5.75,width=2560,height=4096}
+Galaxy S24+|Samsung|{density=1.25,width=1920,height=4096}
+F1S|Oppo|{density=1,75,width=1920,height=2560}
+Galaxy A05|Samsung|{density=3.0,width=720,height=1280}
+Galaxy Tab Active5|Samsung|{density=1,75,width=2560,height=1280}
+Galaxy Tab S9+|Samsung|{density=3.75,width=1080,height=3840}
+Galaxy S23 FE|Samsung|{density=3.25,width=2560,height=4096}
+Galaxy Tab S9 Ultra|Samsung|{density=2.25,width=2560,height=1920}
+Y55L|Vivo|{density=1.5,width=1920,height=2560}
+V808|Vivo|{density=1.0,width=1080,height=1920}
+Galaxy S23 FE|Samsung|{density=1.5,width=1080,height=3840}
+F1S|Oppo|{density=3.75,width=720,height=2560}
+Vibe K5 Plus Dual SIM|Vivo|{density=2.75,width=720,height=1920}
+Galaxy A06|Samsung|{density=2.75,width=1920,height=4096}
+Galaxy F14 4G|Samsung|{density=5.75,width=1920,height=1280}
+R11|Oppo|{density=3.5,width=720,height=1280}
+F7|Oppo|{density=5.75,width=1080,height=1920}
+R11|Oppo|{density=3.75,width=1440,height=1280}
+Y35|Vivo|{density=5.0,width=1440,height=2560}
+V10 (T-Mobile)|Vivo|{density=4.0,width=720,height=1280}
+Galaxy Tab Active5|Samsung|{density=3.0,width=720,height=1280}
+Valencia|Vivo|{density=4.25,width=1440,height=4096}
+Vibe Z|Vivo|{density=6,width=720,height=2560}
+Galaxy M54|Samsung|{density=2.0,width=1920,height=3840}
+Reno 2|Oppo|{density=1.0,width=1440,height=1920}
+F1|Oppo|{density=2.25,width=1440,height=2560}
+V10 (T-Mobile)|Vivo|{density=4.25,width=1080,height=1280}
+A7|Oppo|{density=5.75,width=1440,height=1920}
+Y6 Dual SIM (2018)|Vivo|{density=5.25,width=1440,height=2560}
+V29e|Vivo|{density=4.25,width=720,height=3840}
+F5 Youth|Oppo|{density=4.5,width=1080,height=1280}
+Galaxy A24 4G|Samsung|{density=1,75,width=720,height=2560}
+V20 (T-Mobile)|Vivo|{density=4.25,width=1920,height=1280}
+F11|Oppo|{density=6,width=720,height=3840}
+V7|Vivo|{density=3.25,width=1440,height=3840}
+Galaxy Tab S9 Ultra|Samsung|{density=2.75,width=1440,height=1920}
+F11|Oppo|{density=1,75,width=1920,height=4096}
+Galaxy Tab S9+|Samsung|{density=1.0,width=1080,height=4096}
+Y83|Vivo|{density=4.5,width=1920,height=1280}
+Y3 (2018)|Vivo|{density=6,width=1440,height=1280}
+Galaxy A24 4G|Samsung|{density=3.25,width=1920,height=1920}
+V1Max|Vivo|{density=1.25,width=1440,height=4096}
+Galaxy A24 4G|Samsung|{density=5.75,width=720,height=1920}
+Galaxy Z Flip5|Samsung|{density=4.5,width=1920,height=1920}
+Galaxy M55|Samsung|{density=3.5,width=2560,height=4096}
+A59|Oppo|{density=1,75,width=2560,height=2560}
+Galaxy C55|Samsung|{density=3.0,width=720,height=4096}
+VX5500|Vivo|{density=1.5,width=1440,height=1280}
+Galaxy M55|Samsung|{density=2.25,width=720,height=4096}
+V20 (AT&T)|Vivo|{density=4.25,width=1440,height=2560}
+Y51|Vivo|{density=5.25,width=1440,height=1920}
+F1|Oppo|{density=4.25,width=2560,height=4096}
+V20|Vivo|{density=1.25,width=1440,height=3840}
+Galaxy Z Fold5|Samsung|{density=2.0,width=1080,height=1920}
+Galaxy M55|Samsung|{density=2.0,width=1440,height=4096}
+F21 Pro|Oppo|{density=4.75,width=720,height=1280}
+Galaxy F55|Samsung|{density=1.25,width=2560,height=4096}
+F9 Pro|Oppo|{density=2.5,width=1080,height=4096}
+Galaxy Tab S9 Ultra|Samsung|{density=6,width=720,height=2560}
+Y51|Vivo|{density=1.5,width=1440,height=1920}
+Vdeo 2|Vivo|{density=5.0,width=2560,height=3840}
+Galaxy A06|Samsung|{density=2.0,width=1440,height=3840}
+F21 Pro 5G|Oppo|{density=3.75,width=720,height=3840}
+R11|Oppo|{density=2.5,width=1080,height=1280}
+F21 Pro|Oppo|{density=6,width=1080,height=1280}
+Galaxy M34 5G|Samsung|{density=4.75,width=2560,height=3840}
+Galaxy M34 5G|Samsung|{density=2.5,width=1440,height=1280}
+Y17s|Vivo|{density=1,75,width=1920,height=3840}
+V29 Lite|Vivo|{density=2.0,width=1440,height=3840}
+R3|Oppo|{density=1.0,width=720,height=4096}
+V9|Vivo|{density=2.0,width=1440,height=3840}
+V10 (Verizon)|Vivo|{density=1.0,width=1440,height=1280}
+A3s|Oppo|{density=5.25,width=720,height=4096}
+Y69|Vivo|{density=3.75,width=2560,height=3840}
+Galaxy F14 4G|Samsung|{density=5.25,width=2560,height=1280}
+Galaxy M14|Samsung|{density=2.25,width=1920,height=2560}
+Volt LS740|Vivo|{density=6,width=1080,height=3840}
+R3|Oppo|{density=4.0,width=2560,height=4096}
+Galaxy Tab Active5|Samsung|{density=4.25,width=2560,height=1280}
+F1|Oppo|{density=5.25,width=1080,height=3840}
+V1Max|Vivo|{density=6,width=1080,height=4096}
+Vibe K5|Vivo|{density=4.75,width=720,height=1280}
+V10 (Verizon)|Vivo|{density=3.75,width=1920,height=3840}
+Galaxy Tab S9 FE|Samsung|{density=2.25,width=2560,height=4096}
+Galaxy A54|Samsung|{density=2.5,width=1440,height=4096}
+Galaxy Watch6 Classic|Samsung|{density=5.25,width=1080,height=1280}
+V10 (T-Mobile)|Vivo|{density=4.75,width=1920,height=4096}
+F7|Oppo|{density=4.5,width=1440,height=1920}
+V5|Vivo|{density=4.0,width=720,height=1920}
+Galaxy Z Fold5|Samsung|{density=1.0,width=1440,height=1920}
+Valencia|Vivo|{density=3.5,width=1080,height=1920}
+Galaxy F54|Samsung|{density=2.25,width=1920,height=2560}
+Galaxy Tab S9 Ultra|Samsung|{density=4.75,width=1080,height=4096}
+Galaxy M35|Samsung|{density=1.0,width=1080,height=1280}
+V3|Vivo|{density=2.25,width=2560,height=1280}
+A59|Oppo|{density=3.75,width=1440,height=1280}
+F3 Plus|Oppo|{density=4.75,width=1440,height=2560}
+Y51L|Vivo|{density=4.25,width=1440,height=1920}
+V5s|Vivo|{density=3.5,width=2560,height=3840}
+V3|Vivo|{density=5.75,width=1920,height=1920}
+Galaxy A35|Samsung|{density=2.0,width=2560,height=4096}
+Y65|Vivo|{density=4.0,width=1920,height=3840}
+V5s|Vivo|{density=3.5,width=2560,height=3840}
+Galaxy M35|Samsung|{density=4.75,width=2560,height=4096}
+Y21L|Vivo|{density=3.0,width=1080,height=1920}
+Y71|Vivo|{density=4.5,width=1080,height=3840}
+Galaxy F14|Samsung|{density=4.5,width=2560,height=4096}
+V7 Plus|Vivo|{density=6,width=2560,height=1920}
+F19 Pro|Oppo|{density=3.25,width=1920,height=3840}
+F7 Youth|Oppo|{density=3.25,width=720,height=1280}
+Y69|Vivo|{density=3.5,width=2560,height=1920}
+Galaxy Z Flip6|Samsung|{density=2.0,width=1080,height=2560}
+A30|Oppo|{density=1,75,width=2560,height=1920}
+Galaxy A35|Samsung|{density=1,75,width=2560,height=2560}
+Galaxy Z Fold6|Samsung|{density=2.0,width=1440,height=3840}
+YP-GI1|Vivo|{density=5.25,width=1080,height=2560}
+A7|Oppo|{density=3.0,width=720,height=1920}
+Vega Iron 2 WiFi|Vivo|{density=1.5,width=1920,height=2560}
+F1S|Oppo|{density=2.75,width=1080,height=1920}
+F23|Oppo|{density=2.5,width=1080,height=3840}
+V3|Vivo|{density=5.25,width=1080,height=1920}
+F17 Pro|Oppo|{density=2.0,width=720,height=4096}
+R11|Oppo|{density=1,75,width=2560,height=4096}
+Y66|Vivo|{density=2.0,width=720,height=3840}
+V7 Plus|Vivo|{density=5.0,width=1440,height=1280}
+Vdeo 2|Vivo|{density=4.25,width=720,height=1920}
+Galaxy A55|Samsung|{density=3.25,width=1440,height=2560}
+R11|Oppo|{density=3.5,width=1440,height=1920}
+Galaxy Tab S9+|Samsung|{density=1.25,width=720,height=1280}
+Galaxy A05|Samsung|{density=5.0,width=2560,height=4096}
+F1 Plus|Oppo|{density=1.25,width=1080,height=4096}
+Galaxy Tab S9|Samsung|{density=2.25,width=1080,height=4096}
+Galaxy Z Fold5|Samsung|{density=2.0,width=720,height=4096}
+Galaxy M35|Samsung|{density=2.75,width=2560,height=2560}
+Y55L|Vivo|{density=1,75,width=1440,height=1280}
+F21 Pro 5G|Oppo|{density=3.25,width=720,height=3840}
+Galaxy F54|Samsung|{density=4.0,width=1920,height=1280}
+Y69|Vivo|{density=1.5,width=1920,height=3840}
+Galaxy Tab S9|Samsung|{density=1.5,width=1080,height=3840}
+Y21|Vivo|{density=4.75,width=720,height=1280}
+Galaxy Tab S9 FE+|Samsung|{density=6,width=2560,height=4096}
+Galaxy F55|Samsung|{density=1,75,width=2560,height=1280}
+Galaxy M15|Samsung|{density=3.75,width=1440,height=4096}
+A53|Oppo|{density=3.25,width=2560,height=1920}
+F9|Oppo|{density=2.75,width=2560,height=4096}
+Galaxy A34|Samsung|{density=4.0,width=2560,height=1280}
+Galaxy F14|Samsung|{density=1.5,width=1080,height=2560}
+Valencia|Vivo|{density=4.5,width=2560,height=3840}
+V20|Vivo|{density=1,75,width=1920,height=1920}
+Y28|Vivo|{density=2.5,width=1920,height=1920}
+Galaxy Z Flip5|Samsung|{density=5.0,width=1920,height=2560}
+F27 Pro+|Oppo|{density=3.75,width=1920,height=2560}
+F1 Plus|Oppo|{density=5.25,width=1080,height=2560}
+Galaxy F14|Samsung|{density=2.75,width=1440,height=1920}
+Galaxy F14 4G|Samsung|{density=4.75,width=1080,height=3840}
+A7|Oppo|{density=2.5,width=1440,height=2560}
+Y51|Vivo|{density=5.25,width=1080,height=2560}
+Galaxy M14|Samsung|{density=1.5,width=1920,height=4096}
+VR Bot 552|Vivo|{density=2.0,width=1920,height=4096}
+Vega Iron 2 WiFi|Vivo|{density=2.25,width=1080,height=3840}
+Galaxy Z Flip6|Samsung|{density=2.0,width=1440,height=3840}
+Y5 II|Vivo|{density=4.5,width=1440,height=3840}
+Galaxy M34 5G|Samsung|{density=4.75,width=1920,height=1920}
+V29e|Vivo|{density=5.25,width=2560,height=4096}
+R3|Oppo|{density=4.0,width=2560,height=4096}
+Y6 (2018)|Vivo|{density=4.0,width=2560,height=1920}
+Galaxy M54|Samsung|{density=2.25,width=2560,height=1920}
+Vibe K5 Plus Dual SIM|Vivo|{density=1.0,width=720,height=3840}
+Y51L|Vivo|{density=4.75,width=1440,height=3840}
+A53|Oppo|{density=4.25,width=1080,height=2560}
+Galaxy A24 4G|Samsung|{density=3.75,width=1080,height=4096}
+Galaxy F54|Samsung|{density=3.5,width=1920,height=3840}
+Galaxy F55|Samsung|{density=2.0,width=1080,height=4096}
+Galaxy F55|Samsung|{density=2.75,width=720,height=4096}
+R3|Oppo|{density=2.0,width=2560,height=4096}
+F17|Oppo|{density=3.75,width=1440,height=2560}
+Galaxy F34|Samsung|{density=4.75,width=1920,height=2560}
+F21 Pro|Oppo|{density=4.25,width=1440,height=4096}
+A77|Oppo|{density=1,75,width=720,height=4096}
+Y6 (2018)|Vivo|{density=2.75,width=720,height=1920}
+F7|Oppo|{density=3.0,width=720,height=1280}
+Galaxy S24|Samsung|{density=1.25,width=720,height=2560}
+Galaxy Z Fold5|Samsung|{density=2.25,width=2560,height=1280}
+Vdeo 2|Vivo|{density=3.0,width=2560,height=1280}
+V20 (AT&T)|Vivo|{density=2.5,width=1920,height=3840}
+F25 Pro|Oppo|{density=3.0,width=1080,height=3840}
+R11|Oppo|{density=5.75,width=1440,height=3840}
+Galaxy S23 FE|Samsung|{density=5.75,width=720,height=4096}
+V29e|Vivo|{density=6,width=1440,height=4096}
+Vdeo 2|Vivo|{density=1.0,width=1080,height=2560}
+F27 Pro+|Oppo|{density=5.25,width=1080,height=4096}
+A53|Oppo|{density=2.25,width=2560,height=2560}
+F3 Plus|Oppo|{density=4.5,width=2560,height=1920}
+F7 Youth|Oppo|{density=3.75,width=1920,height=4096}
+Galaxy S24 Ultra|Samsung|{density=4.75,width=2560,height=2560}
+Galaxy A15|Samsung|{density=4.75,width=1440,height=2560}
+Galaxy A55|Samsung|{density=3.25,width=2560,height=3840}
+Galaxy A05s|Samsung|{density=3.25,width=2560,height=4096}
+F3 Plus|Oppo|{density=2.25,width=2560,height=1280}
+V20 (Sprint)|Vivo|{density=3.0,width=1080,height=2560}
+Galaxy Tab S9|Samsung|{density=2.25,width=720,height=1280}
+F19 Pro|Oppo|{density=6,width=1920,height=2560}
+Volt LS740|Vivo|{density=3.5,width=1080,height=2560}
+Y336-U02|Vivo|{density=3.5,width=720,height=2560}
+F27 Pro+|Oppo|{density=1.5,width=2560,height=2560}
+Galaxy M35|Samsung|{density=2.0,width=1440,height=4096}
+V7 Plus|Vivo|{density=1.5,width=1920,height=2560}
+Y28|Vivo|{density=5.25,width=720,height=3840}
+V20 (AT&T)|Vivo|{density=2.25,width=1080,height=1920}
+V20|Vivo|{density=3.75,width=1920,height=2560}
+A37|Oppo|{density=3.5,width=2560,height=1920}
+Valencia|Vivo|{density=1.5,width=1080,height=1920}
+Y5 Prime 2018 Dual SIM|Vivo|{density=3.0,width=1920,height=4096}
+Galaxy A06|Samsung|{density=3.5,width=1080,height=1920}
+V20 (AT&T)|Vivo|{density=3.75,width=1440,height=2560}
+A3s|Oppo|{density=2.5,width=720,height=1920}
+V808|Vivo|{density=5.0,width=1080,height=3840}
+Galaxy A24 4G|Samsung|{density=5.25,width=1440,height=2560}
+Yota Phone 2|Vivo|{density=2.5,width=1440,height=2560}
+V9|Vivo|{density=1,75,width=1440,height=2560}
+Galaxy Z Flip6|Samsung|{density=2.0,width=1080,height=3840}
+F9 Pro|Oppo|{density=2.25,width=1920,height=1280}
+Galaxy A05s|Samsung|{density=1.25,width=1440,height=3840}
+V20|Vivo|{density=5.0,width=720,height=2560}
+Galaxy M54|Samsung|{density=4.0,width=2560,height=1280}
+Y6 (2018)|Vivo|{density=4.75,width=720,height=1920}
+Y5 Prime 2018 Dual SIM|Vivo|{density=2.5,width=1440,height=3840}
+Y83|Vivo|{density=5.75,width=2560,height=2560}
+Galaxy Tab S9+|Samsung|{density=1,75,width=1080,height=3840}
+Y51L|Vivo|{density=3.5,width=1080,height=4096}
+F9 Pro|Oppo|{density=2.25,width=1080,height=3840}
+Galaxy A05s|Samsung|{density=1,75,width=720,height=2560}
+F3 Lite|Oppo|{density=1,75,width=1080,height=2560}
+Galaxy M55|Samsung|{density=1.5,width=2560,height=1280}
+Galaxy Watch6 Classic|Samsung|{density=1.25,width=2560,height=3840}
+V20 (AT&T)|Vivo|{density=5.75,width=2560,height=4096}
+F11 Pro|Oppo|{density=4.75,width=2560,height=2560}
+Galaxy Tab S6 Lite (2024)|Samsung|{density=6,width=2560,height=1280}
+F15|Oppo|{density=5.0,width=1440,height=1920}
+A59|Oppo|{density=1.25,width=1080,height=4096}
+R11|Oppo|{density=4.5,width=2560,height=4096}
+Galaxy Tab S9 Ultra|Samsung|{density=1,75,width=1080,height=4096}
+Y336-U02|Vivo|{density=2.5,width=1920,height=4096}
+Vibe K5|Vivo|{density=2.0,width=1080,height=1280}
+Galaxy Tab S9|Samsung|{density=4.5,width=2560,height=4096}
+Galaxy Tab S6 Lite (2024)|Samsung|{density=6,width=720,height=3840}
+Y83|Vivo|{density=1.5,width=1440,height=2560}
+Y28|Vivo|{density=5.0,width=1920,height=1280}
+F3 Plus|Oppo|{density=2.5,width=1440,height=2560}
+Galaxy Tab S9 Ultra|Samsung|{density=3.75,width=1440,height=2560}
+Galaxy M15|Samsung|{density=4.25,width=1080,height=3840}
+Y5 Prime 2018 Dual SIM|Vivo|{density=2.25,width=720,height=4096}
+Galaxy Tab S9 Ultra|Samsung|{density=2.0,width=1440,height=2560}
+R11|Oppo|{density=1.25,width=1080,height=4096}
+Galaxy F14 4G|Samsung|{density=3.0,width=720,height=1280}
+R9|Oppo|{density=3.5,width=1920,height=1920}
+Galaxy Tab S6 Lite (2024)|Samsung|{density=1.25,width=2560,height=2560}
+R11|Oppo|{density=4.5,width=2560,height=4096}
+F21 Pro|Oppo|{density=4.0,width=2560,height=3840}
+A77|Oppo|{density=4.5,width=1080,height=4096}
+R3|Oppo|{density=2.25,width=1440,height=4096}
+Galaxy A06|Samsung|{density=1.5,width=2560,height=2560}
+F1S|Oppo|{density=3.0,width=2560,height=1280}
+F21 Pro|Oppo|{density=3.75,width=1920,height=1920}
+V808|Vivo|{density=1.25,width=2560,height=2560}
+F9|Oppo|{density=4.75,width=1920,height=1280}
+Y28|Vivo|{density=2.0,width=1080,height=4096}
+Vibe K5|Vivo|{density=5.75,width=2560,height=1280}
+Y6 (2018)|Vivo|{density=3.0,width=2560,height=3840}
+F19|Oppo|{density=1.0,width=1440,height=3840}
+Galaxy Tab S9 FE+|Samsung|{density=3.5,width=2560,height=1280}
+Y5 II|Vivo|{density=3.25,width=720,height=1920}
+Y28|Vivo|{density=4.25,width=2560,height=4096}
+A9|Oppo|{density=2.0,width=1920,height=3840}
+Galaxy F34|Samsung|{density=1,75,width=1080,height=3840}
+V10 (Verizon)|Vivo|{density=3.75,width=720,height=2560}
+A53|Oppo|{density=4.5,width=720,height=2560}
+Vibe K5|Vivo|{density=3.0,width=720,height=3840}
+F21s Pro|Oppo|{density=2.5,width=1080,height=1920}
+F5|Oppo|{density=4.25,width=1080,height=1280}
+Galaxy A54|Samsung|{density=5.0,width=720,height=1920}
+Galaxy Z Fold6|Samsung|{density=3.0,width=720,height=3840}
+A30|Oppo|{density=2.75,width=1440,height=1280}
+F17 Pro|Oppo|{density=5.75,width=1920,height=2560}
+Galaxy M14 4G|Samsung|{density=1.25,width=1920,height=2560}
+VR Bot 552|Vivo|{density=1,75,width=720,height=1920}
+Y5 II|Vivo|{density=4.75,width=720,height=3840}
+F7 Youth|Oppo|{density=5.0,width=1080,height=1280}
+VR Bot 552|Vivo|{density=4.75,width=1080,height=1920}
+V10 (Verizon)|Vivo|{density=1.0,width=1920,height=1280}
+Y81|Vivo|{density=2.0,width=2560,height=1920}
+Galaxy A24 4G|Samsung|{density=3.0,width=1920,height=1920}
+Galaxy A34|Samsung|{density=4.5,width=1920,height=3840}
+A59|Oppo|{density=2.0,width=720,height=4096}
+Galaxy Z Fold6|Samsung|{density=1,75,width=720,height=4096}
+Y6 Prime (2018)|Vivo|{density=4.75,width=720,height=1280}
+Y336-U02|Vivo|{density=4.5,width=1440,height=4096}
+Galaxy A05s|Samsung|{density=3.75,width=1440,height=2560}
+F7|Oppo|{density=2.25,width=1440,height=4096}
+Galaxy Watch6 Classic|Samsung|{density=2.5,width=720,height=1280}
+Y5 Prime 2018 Dual SIM|Vivo|{density=2.75,width=2560,height=3840}
+Galaxy Watch6 Classic|Samsung|{density=3.25,width=2560,height=2560}
+A3s|Oppo|{density=2.75,width=720,height=1280}
+A3s|Oppo|{density=4.0,width=1440,height=2560}
+V20 (T-Mobile)|Vivo|{density=1.5,width=1440,height=1920}
+Galaxy A54|Samsung|{density=5.75,width=720,height=2560}
+V20 (Verizon)|Vivo|{density=2.25,width=2560,height=1920}
+Galaxy F34|Samsung|{density=3.0,width=1440,height=2560}
+Galaxy A15|Samsung|{density=3.75,width=720,height=1280}
+Galaxy M34 5G|Samsung|{density=6,width=1920,height=1920}
+A7|Oppo|{density=3.25,width=2560,height=1280}
+F21 Pro 5G|Oppo|{density=4.0,width=720,height=4096}
+F21 Pro|Oppo|{density=1.25,width=720,height=1920}
+Galaxy M05|Samsung|{density=3.0,width=720,height=1920}
+F1S|Oppo|{density=2.5,width=1920,height=4096}
+V808|Vivo|{density=5.25,width=1080,height=4096}
+F1 Plus|Oppo|{density=3.25,width=720,height=4096}
+Galaxy A35|Samsung|{density=4.75,width=1440,height=1280}
+Galaxy A54|Samsung|{density=4.75,width=1440,height=2560}
+F27 Pro+|Oppo|{density=4.75,width=2560,height=3840}
+Galaxy A25|Samsung|{density=2.75,width=1440,height=3840}
+Galaxy Tab A9+|Samsung|{density=4.5,width=720,height=1280}
+F19s|Oppo|{density=4.0,width=1080,height=4096}
+Galaxy A15 5G|Samsung|{density=5.75,width=1440,height=2560}
+Galaxy A25|Samsung|{density=1.25,width=720,height=3840}
+Galaxy F15|Samsung|{density=1.25,width=1080,height=1280}
+Y3 (2018)|Vivo|{density=6,width=1440,height=3840}
+Galaxy Tab A9|Samsung|{density=4.75,width=1920,height=3840}
+V10 (T-Mobile)|Vivo|{density=2.5,width=720,height=1280}
+A7|Oppo|{density=3.25,width=2560,height=1280}
+F1 Plus|Oppo|{density=5.75,width=1080,height=4096}
+Vibe X|Vivo|{density=2.0,width=2560,height=4096}
+Galaxy Tab Active5|Samsung|{density=5.0,width=1080,height=1280}
+V7 Plus|Vivo|{density=2.75,width=1080,height=2560}
+Y81|Vivo|{density=3.5,width=720,height=4096}
+F21s Pro 5G|Oppo|{density=1.0,width=1440,height=2560}
+Vibe K5 Note|Vivo|{density=5.75,width=720,height=3840}
+Vibe Z|Vivo|{density=5.0,width=1920,height=3840}
+V3|Vivo|{density=5.0,width=1080,height=2560}
+A3s|Oppo|{density=4.75,width=1080,height=1920}
+R17|Oppo|{density=5.75,width=2560,height=1920}
+Galaxy Z Flip6|Samsung|{density=2.75,width=720,height=1920}
+V7|Vivo|{density=5.75,width=720,height=1920}
+F19s|Oppo|{density=4.25,width=1920,height=1920}
+Galaxy A06|Samsung|{density=4.75,width=1080,height=3840}
+F19|Oppo|{density=4.25,width=1920,height=3840}
+Y69|Vivo|{density=3.5,width=1920,height=2560}
+Y51|Vivo|{density=6,width=1080,height=3840}
+Galaxy A06|Samsung|{density=5.25,width=720,height=1280}
+F1 Plus|Oppo|{density=3.75,width=1440,height=3840}
+A30|Oppo|{density=2.75,width=1440,height=3840}
+Galaxy A54|Samsung|{density=2.25,width=1080,height=2560}
+F7|Oppo|{density=5.0,width=2560,height=3840}
+F7|Oppo|{density=4.75,width=2560,height=3840}
+Galaxy M14|Samsung|{density=6,width=720,height=2560}
+Galaxy Tab S9 Ultra|Samsung|{density=2.0,width=1920,height=1920}
+Galaxy M34 5G|Samsung|{density=1.25,width=720,height=1920}
+F9 Pro|Oppo|{density=4.75,width=2560,height=1920}
+VR Bot 552|Vivo|{density=2.25,width=2560,height=4096}
+R1|Oppo|{density=5.25,width=720,height=2560}
+F9|Oppo|{density=2.0,width=1080,height=1920}
+Galaxy A24 4G|Samsung|{density=5.25,width=720,height=4096}
+Galaxy S23 FE|Samsung|{density=5.0,width=2560,height=2560}
+Vibe X|Vivo|{density=6,width=1920,height=3840}
+Galaxy A25|Samsung|{density=6,width=2560,height=1920}
+A30|Oppo|{density=5.25,width=1920,height=3840}
+Galaxy A35|Samsung|{density=4.5,width=1920,height=4096}
+Galaxy Tab Active5|Samsung|{density=5.25,width=720,height=3840}
+F9 Pro|Oppo|{density=3.25,width=1440,height=4096}
+Galaxy A15|Samsung|{density=4.75,width=1440,height=2560}
+V20 (Verizon)|Vivo|{density=4.0,width=2560,height=1280}
+Galaxy Tab Active5|Samsung|{density=5.75,width=1080,height=4096}
+V29e|Vivo|{density=1.5,width=2560,height=2560}
+F9|Oppo|{density=3.75,width=2560,height=1280}
+V20|Vivo|{density=3.25,width=2560,height=1920}
+Galaxy M34 5G|Samsung|{density=2.25,width=1440,height=4096}
+A53|Oppo|{density=3.0,width=1080,height=1280}
+Y65|Vivo|{density=1.0,width=1920,height=3840}
+Vision 3 Dual SIM|Vivo|{density=4.25,width=1080,height=3840}
+F5 Plus|Oppo|{density=4.5,width=1920,height=3840}
+A5s|Oppo|{density=1.5,width=1920,height=4096}
+F5 Plus|Oppo|{density=3.5,width=1440,height=2560}
+F27 Pro+|Oppo|{density=1.0,width=720,height=2560}
+F19|Oppo|{density=3.75,width=1440,height=2560}
+A5s|Oppo|{density=5.25,width=720,height=2560}
+Vibe K5 Plus Dual SIM|Vivo|{density=5.25,width=2560,height=1280}
+A3s|Oppo|{density=3.5,width=720,height=2560}
+Galaxy M05|Samsung|{density=3.5,width=1920,height=4096}
+Galaxy Z Flip5|Samsung|{density=4.0,width=720,height=1280}
+F11|Oppo|{density=1,75,width=1920,height=1920}
+R9|Oppo|{density=3.75,width=1440,height=3840}
+F21s Pro 5G|Oppo|{density=1.0,width=1080,height=1920}
+F5|Oppo|{density=2.5,width=2560,height=1280}
+F9|Oppo|{density=3.75,width=1440,height=3840}
+A9|Oppo|{density=4.0,width=1080,height=3840}
+Y5 II|Vivo|{density=1.5,width=2560,height=3840}
+Galaxy A35|Samsung|{density=1.5,width=2560,height=1280}
+R17|Oppo|{density=3.5,width=2560,height=1920}
+Galaxy S23 FE|Samsung|{density=1.5,width=1920,height=2560}
+F11|Oppo|{density=3.25,width=1440,height=3840}
+Galaxy A24 4G|Samsung|{density=4.5,width=720,height=1920}
+Galaxy Tab S9 FE+|Samsung|{density=3.5,width=720,height=1280}
+Galaxy Tab S9+|Samsung|{density=1.5,width=1080,height=1920}
+Galaxy XCover7|Samsung|{density=5.75,width=1080,height=1280}
+Volt LS740|Vivo|{density=6,width=1920,height=2560}
+V29 Lite|Vivo|{density=1.5,width=720,height=1920}
+Galaxy C55|Samsung|{density=2.25,width=2560,height=3840}
+F9 Pro|Oppo|{density=2.5,width=1440,height=1920}
+F21s Pro|Oppo|{density=3.0,width=2560,height=2560}
+VX5500|Vivo|{density=1.25,width=1920,height=1920}
+F21s Pro|Oppo|{density=4.5,width=720,height=1280}
+F21 Pro|Oppo|{density=3.0,width=1080,height=3840}
+F19 Pro+ 5G|Oppo|{density=4.25,width=1080,height=1280}
+V10 (T-Mobile)|Vivo|{density=5.25,width=1920,height=3840}
+Galaxy M14 4G|Samsung|{density=1,75,width=720,height=3840}
+R1|Oppo|{density=1.25,width=1920,height=2560}
+Vision 3 Dual SIM|Vivo|{density=5.75,width=720,height=1920}
+F21s Pro 5G|Oppo|{density=2.75,width=1080,height=1920}
+Galaxy Tab S9 Ultra|Samsung|{density=5.75,width=720,height=2560}
+Galaxy Tab S9|Samsung|{density=3.5,width=1920,height=1920}
+F19 Pro+ 5G|Oppo|{density=2.25,width=2560,height=3840}
+Y5 Dual SIM (2017)|Vivo|{density=2.25,width=1440,height=1280}
+F9|Oppo|{density=5.0,width=1440,height=1920}
+Galaxy M35|Samsung|{density=3.5,width=1080,height=4096}
+F1S|Oppo|{density=2.25,width=1080,height=1280}
+Galaxy Z Fold5|Samsung|{density=1,75,width=1440,height=2560}
+Galaxy M35|Samsung|{density=1.0,width=720,height=1920}
+Galaxy XCover7|Samsung|{density=4.75,width=720,height=1280}
+Galaxy Tab S9 FE+|Samsung|{density=4.75,width=720,height=1920}
+Y336-U02|Vivo|{density=1.5,width=1440,height=1280}
+V29 Lite|Vivo|{density=2.75,width=720,height=1280}
+Yota Phone 2|Vivo|{density=4.5,width=1080,height=4096}
+Y5 II|Vivo|{density=4.25,width=1080,height=4096}
+Reno 3|Oppo|{density=4.0,width=720,height=1920}
+Galaxy A55|Samsung|{density=1.5,width=2560,height=1920}
+Vibe K5 Plus Dual SIM|Vivo|{density=5.25,width=1080,height=2560}
+F19 Pro|Oppo|{density=3.0,width=2560,height=1280}
+A7|Oppo|{density=4.75,width=1440,height=4096}
+A77|Oppo|{density=5.0,width=1920,height=3840}
+A9|Oppo|{density=2.75,width=720,height=4096}
+A77|Oppo|{density=2.5,width=1080,height=1280}
+V7 Plus|Vivo|{density=4.25,width=1080,height=1280}
+V20|Vivo|{density=5.0,width=1080,height=4096}
+V5|Vivo|{density=3.25,width=720,height=2560}
+R11|Oppo|{density=1,75,width=720,height=3840}
+V3|Vivo|{density=1,75,width=1920,height=4096}
+Galaxy S23 FE|Samsung|{density=2.5,width=2560,height=2560}
+Galaxy Z Flip5|Samsung|{density=3.0,width=1080,height=1920}
+V9|Vivo|{density=2.5,width=720,height=1280}
+Galaxy S24+|Samsung|{density=5.0,width=1920,height=4096}
+Y6 Dual SIM (2018)|Vivo|{density=3.0,width=1080,height=1280}
+Y51L|Vivo|{density=5.75,width=1440,height=3840}
+Y3 (2018)|Vivo|{density=4.0,width=1440,height=4096}
+Galaxy F14 4G|Samsung|{density=2.0,width=1920,height=1280}
+F11 Pro|Oppo|{density=3.5,width=1080,height=1280}
+Galaxy A35|Samsung|{density=6,width=1440,height=4096}
+V20 (Sprint)|Vivo|{density=1.25,width=1080,height=4096}
+Y6 Prime (2018)|Vivo|{density=4.0,width=720,height=2560}
+Galaxy Tab S9 FE|Samsung|{density=2.0,width=1440,height=1280}
+F5 Youth|Oppo|{density=1.0,width=1080,height=4096}
+A59|Oppo|{density=1.25,width=1440,height=1920}
+F3 Plus|Oppo|{density=4.25,width=1440,height=1280}
+Y71|Vivo|{density=4.5,width=1440,height=4096}
+Galaxy Z Fold6|Samsung|{density=5.75,width=2560,height=1280}
+R11|Oppo|{density=3.0,width=1440,height=1280}
+V20|Vivo|{density=1.0,width=2560,height=4096}
+F7|Oppo|{density=4.0,width=1920,height=1280}
+Galaxy Tab S9|Samsung|{density=6,width=1440,height=1280}
+F1 Plus|Oppo|{density=2.0,width=720,height=2560}
+Galaxy M05|Samsung|{density=2.75,width=1920,height=1920}
+F21 Pro|Oppo|{density=1.0,width=1920,height=1280}
+Galaxy S23 FE|Samsung|{density=1.5,width=2560,height=1280}
+V7|Vivo|{density=2.75,width=720,height=3840}
+F21 Pro|Oppo|{density=4.5,width=720,height=1280}
+Galaxy M34 5G|Samsung|{density=2.0,width=720,height=1920}
